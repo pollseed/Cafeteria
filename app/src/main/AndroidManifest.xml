@@ -17,12 +17,12 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="jp.com.pollseed.cafeteria.SearchActivity"
-            android:label="@string/title_activity_search" >
-        </activity>
-        <activity
             android:name="jp.com.pollseed.cafeteria.ResultActivity"
             android:label="@string/title_activity_result" >
+        </activity>
+        <activity
+            android:name="jp.com.pollseed.cafeteria.CafeteriaActivity"
+            android:label="@string/title_activity_cafeteria" >
         </activity>
     </application>
 
