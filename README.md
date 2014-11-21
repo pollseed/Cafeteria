@@ -1,29 +1,17 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+public repository
 
-### What is this repository for? ###
+```
+$ git remote set-url origin git@github.com:pollseed/Cafeteria.git
+```
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+private repository
 
-### How do I get set up? ###
+```
+bitbucketで管理している
+```
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+## Summary
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Androidの公開アプリのリポジトリ。主にクライアントサイドを簡単に実装していきます。
