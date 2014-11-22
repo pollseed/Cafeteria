@@ -6,5 +6,9 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_result">ResultActivity</string>
     <string name="title_activity_cafeteria">CafeteriaActivity</string>
+    <string name="title_section1">カテゴリ</string>
+    <string name="title_section2">ワード</string>
+    <string name="content">検索ボタンなどを挿入</string>
+
 
 </resources>
